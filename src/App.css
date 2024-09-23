@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.mark {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+.highlighted-text {
+  white-space: pre-wrap;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+ 
+}
+
